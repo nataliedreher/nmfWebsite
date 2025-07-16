@@ -127,9 +127,3 @@ body {
     text-decoration: none;
 }
 
-.contactMeBorder {
-    border-image: url(./layered-peaks-haikei.png);
-    border-image-width: 0 0 20px 0;
-    border-image-repeat: stretch;
-    z-index: 1000;
-}
